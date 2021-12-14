@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    color: aqua;
+    background-color: blue;
+}
+h{
+    color: aqua;
+    font-size: large;
+}
+p{
+    color: aqua;
+    font-size: medium;
+}
+button{
+    background-color: aqua;
+}
